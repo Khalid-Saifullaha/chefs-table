@@ -1,7 +1,6 @@
-{
-    "recipes": [
+[
       {
-        "recipe_id": 101,
+        "recipe_id": 1,
         "recipe_image": "https://i.ibb.co.com/61TtrCd/Rectangle-20170.png",
         "recipe_name": "Chicken Stir Fry",
         "description": "A quick and easy chicken stir fry with fresh vegetables and soy sauce.",
@@ -16,8 +15,8 @@
         "calories": "350 calories"
       },
       {
-        "recipe_id": 102,
-        "recipe_image": "https://i.ibb.co.com/61TtrCd/Rectangle-20170.png",
+        "recipe_id": 2,
+        "recipe_image": "https://i.ibb.co.com/nm3GLvG/mexian-ground-beef-tacos-recipe-9.jpg",
         "recipe_name": "Beef Tacos",
         "description": "Tasty beef tacos topped with fresh veggies and cheese.",
         "ingredients": [
@@ -31,8 +30,8 @@
         "calories": "400 calories"
       },
       {
-        "recipe_id": 103,
-        "recipe_image": "https://i.ibb.co.com/NVBWrPd/Rectangle-20170-1.png",
+        "recipe_id": 3,
+        "recipe_image": "https://i.ibb.co.com/8jPZpkg/Spaghetti-Bolognese-tall-FS-0204.webp",
         "recipe_name": "Spaghetti Bolognese",
         "description": "A classic Italian dish made with a rich, flavorful meat sauce.",
         "ingredients": [
@@ -46,8 +45,8 @@
         "calories": "500 calories"
       },
       {
-        "recipe_id": 104,
-        "recipe_image": "https://i.ibb.co.com/61TtrCd/Rectangle-20170.png",
+        "recipe_id": 4,
+        "recipe_image": "https://i.ibb.co.com/NKXPvyC/Best-Grilled-Salmon-1200-x-1200-1024x1024.jpg",
         "recipe_name": "Grilled Salmon",
         "description": "Delicious grilled salmon served with lemon and herbs.",
         "ingredients": [
@@ -61,7 +60,7 @@
         "calories": "280 calories"
       },
       {
-        "recipe_id": 105,
+        "recipe_id": 5,
         "recipe_image": "https://i.ibb.co.com/NVBWrPd/Rectangle-20170-1.png",
         "recipe_name": "Vegetable Curry",
         "description": "A fragrant vegetable curry with a mix of spices and coconut milk.",
@@ -76,7 +75,7 @@
         "calories": "320 calories"
       },
       {
-        "recipe_id": 106,
+        "recipe_id": 6,
         "recipe_image": "https://i.ibb.co.com/61TtrCd/Rectangle-20170.png",
         "recipe_name": "Chocolate Cake",
         "description": "A rich, moist chocolate cake topped with creamy frosting.",
@@ -91,4 +90,3 @@
         "calories": "600 calories"
       }
     ]
-  }
